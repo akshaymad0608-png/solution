@@ -1,0 +1,7 @@
+{
+  "name": "SolveIt AI",
+  "description": "Har Problem ka AI Solution in 30 seconds. Designed for Indian creators, students, and solopreneurs to solve career, content, and life problems using advanced AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
